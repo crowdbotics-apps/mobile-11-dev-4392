@@ -9,7 +9,6 @@ import UserProfile3988Navigator from '../features/UserProfile3988/navigator';
 import EmailAuth3987Navigator from '../features/EmailAuth3987/navigator';
 import BlankScreen3984Navigator from '../features/BlankScreen3984/navigator';
 import EmailAuth3983Navigator from '../features/EmailAuth3983/navigator';
-import UserProfile3973Navigator from '../features/UserProfile3973/navigator';
 import EmailAuthNavigator from '../features/EmailAuth/navigator';
 
 /**
@@ -25,7 +24,6 @@ UserProfile3988: { screen: UserProfile3988Navigator },
 EmailAuth3987: { screen: EmailAuth3987Navigator },
 BlankScreen3984: { screen: BlankScreen3984Navigator },
 EmailAuth3983: { screen: EmailAuth3983Navigator },
-UserProfile3973: { screen: UserProfile3973Navigator },
 EmailAuth: { screen: EmailAuthNavigator },
 
     /** new navigators can be added here */
